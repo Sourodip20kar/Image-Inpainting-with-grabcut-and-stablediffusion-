@@ -1,1 +1,1 @@
-# Image-Inpainting-with-grabcut-and-stablediffusion-
+# Image-Inpainting-with-grabcut-and-stablediffusion
