@@ -14,3 +14,5 @@ This project explores the enhancement of image inpainting using GrabCut segmenta
 - Write the Prompt and Execute Inpainting:
   - Write the desired prompt in the Colab notebook.
   - Run the notebook cells to see the diffusion inpainting process and generate the new image.
+## Final-result
+![Final_result](final_result.png)
